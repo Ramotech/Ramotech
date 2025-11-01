@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Omar 👋
 
-<!--
-**Ramotech/Ramotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Computer Science at the University of Camerino (UNICAM), Italy.  
+My goal is to enroll in a master's program in Cyber Security after my bachelor's degree.
 
-Here are some ideas to get you started:
+I'm passionate about ethical hacking and pentesting, and I'm excited to learn and grow in the field of information security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For now, I use GitHub to share reports and write-ups from the rooms I complete on TryHackMe, which I also add to my LinkedIn profile.
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Ramotech.png)](https://tryhackme.com/p/Ramotech)
+
+## Interests
+- Ethical hacking
+- Pentesting
+- Cyber security
+- Capture the Flag (CTF)
+
+## Current projects
+- TryHackMe room reports
+- Learning penetration testing tools and methodologies
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/gehrman-undefined-337181326/)
+- [TryHackMe](https://tryhackme.com/p/Ramotech)
+
