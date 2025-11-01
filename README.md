@@ -20,6 +20,6 @@ For now, I use GitHub to share reports and write-ups from the rooms I complete o
 - Learning penetration testing tools and methodologies
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/gehrman-undefined-337181326/)
+- [LinkedIn](https://www.linkedin.com/in/omar-boufous-337181326/)
 - [TryHackMe](https://tryhackme.com/p/Ramotech)
 
